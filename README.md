@@ -229,14 +229,3 @@ opencv-python<4.10
 These constraints prevent silent segfaults from ABI mismatches.
 
 ---
-
-## Technical Highlights
-
-This project demonstrates several advanced RL and systems engineering concepts:
-
-- **Algorithmic:** Double DQN reduces overestimation; frame stacking provides temporal context without RNNs
-- **Systems:** MPS backend enables GPU training on non-NVIDIA hardware
-- **Memory Engineering:** Aggressive optimization for constrained VRAM environments
-- **Dependency Management:** Navigating NumPy 2.0 breaking changes in legacy environments
-
----
