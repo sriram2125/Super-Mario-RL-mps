@@ -14,7 +14,6 @@ Watch an AI learn to play Super Mario Bros from raw pixels, with no game knowled
 **Key Features:**
 - Pure pixel-to-action learning with convolutional neural networks
 - Optimized for Mac hardware (Apple Silicon M1/M2/M3 & AMD GPUs)
-- Efficient memory management for 4GB VRAM constraints
 - Frame stacking for motion perception
 - Double DQN architecture to prevent overestimation bias
 
