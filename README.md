@@ -126,7 +126,7 @@ Rather than learning from experiences sequentially (which creates correlated, bi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/super-mario-rl-mps.git
+git clone https://github.com/sriram2125/super-mario-rl-mps.git
 cd super-mario-rl-mps
 
 # Create virtual environment
