@@ -3,12 +3,13 @@
 A Deep Reinforcement Learning agent that learns to play *Super Mario Bros* (NES) from scratch using **Double Deep Q-Learning (DDQN)**. Optimized for **Apple Silicon & AMD GPUs** via Metal Performance Shaders (MPS)—no NVIDIA CUDA required.
 
 ![Mario RL](https://img.shields.io/badge/Environment-Gym_Super_Mario_Bros-red) ![PyTorch](https://img.shields.io/badge/Framework-PyTorch_MPS-orange) ![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Status](https://img.shields.io/badge/Status-Training-green)
-
 ---
 
 ## What This Does
 
 Watch an AI learn to play Super Mario Bros from raw pixels, with no game knowledge or human demonstrations. Starting from random button mashing, the agent discovers jumping, dodges enemies, and optimizes speedruns through reinforcement learning.
+
+![Mario Gameplay Demo](CleanShot%202025-12-25%20at%2023.50.31@2x.png)
 
 **Key Features:**
 - Pure pixel-to-action learning with convolutional neural networks
